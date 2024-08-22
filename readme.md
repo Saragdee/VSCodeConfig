@@ -1,0 +1,1 @@
+Personal simple vscode setup.
